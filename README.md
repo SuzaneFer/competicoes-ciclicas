@@ -1,0 +1,1 @@
+# competicoes-ciclicas
