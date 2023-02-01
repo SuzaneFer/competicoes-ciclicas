@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1615853281 source:c:\users\suzane\desktop\ufop\tcc\raquel2021\main.c
+	<stdio.h>
+	<time.h>
+	<gsl/gsl_rng.h>
+	<math.h>
+
+1628094483 source:c:\users\suzan\onedrive\Área de trabalho\ufop\tcc\raquel2021\main.c
+	<stdio.h>
+	<time.h>
+	<gsl/gsl_rng.h>
+	<math.h>
+
+1653824191 source:c:\users\dti digital\onedrive - dti digital crafters\Área de trabalho\ufop\tcc - codigo 2021\main.c
+	<stdio.h>
+	<time.h>
+	<gsl/gsl_rng.h>
+	<math.h>
+
